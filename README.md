@@ -46,6 +46,8 @@
     <b> ✌️👧💬 🎈 Authorized by distributed </b> </br>
 </p>
 
+💃( 👩‍🏫 )💬 Attention networks are one example of using neuron networks to solve variance problems that cause complex programming conditions but they can perform updates and processes by attention networks. The attention network works on update value and feedback update value calculation for attention scores of multiple stages input and current stage to find the level of current satisfaction level compared to overall and consideration level. This behavior helps the programmer to solve the problem when variables can have different proficiency scores assignments. </br>
+
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/attention_networks.png"> </br>
