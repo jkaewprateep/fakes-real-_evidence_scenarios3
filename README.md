@@ -39,7 +39,7 @@
 ## 🧸💬 Sample case known authorized and acquiring
 
 🐑💬 ➰ The ```ransomware``` does not happen today but it comes back with overall awareness ignored the ```standard security application level```, the ```ABC games 🅰️🅱️``` once came with ```ransomware``` and also the ```crossword games``` because people action by their assumption than prove of evidence and it is the same happened when ```randsomeware``` repeating of the same behavior. 🧩🃏 </br>
-🦭💬 At the time we communicate to people and technology users communication is used in the comfortable and efficient way, the encrypted messages and high standard prizes of word conversation create luxury of word paragraphs and leverage levels but the primary purpose of communication is fast, conscripts, effective, repeats and revise and applicable to apply. </br>
+🦭💬 At the time we communicate with people and technology users communication is used in the ```comfortable and efficient way```, the encrypted messages and high standard prizes of word conversation create the luxury of word paragraphs and ```leverage levels``` but the primary purpose of communication is ```fast```, ```conscripts```, ```effective```, ```repeats and revise``` and ```applicable to apply.``` </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/authorized_by_distributed.png"> </br>
