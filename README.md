@@ -46,6 +46,8 @@
     <b> ✌️👧💬 🎈 Authorized by distributed </b> </br>
 </p>
 
+[ Simple Cylindrical word encryption for kids ](https://github.com/jkaewprateep/Simple_encode_decode/blob/main/README.md)
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/image23.jpg"> </br>
     <b> 👧💬 🎈 A strong intention and adventure never end </b> </br>
