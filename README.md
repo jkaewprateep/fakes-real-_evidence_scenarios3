@@ -12,6 +12,8 @@
 
 (3) 🦁💬 One more example, we could not use ```email ID``` when they are using ```Lotus Note client``` or ```Domino client```. The IT admin tries to request a new note file and initiate of new note client with a password and authorized parameters but they cannot open and read the email or ```only one time can read the email and reset once the domino client closes```. 🐑💬 ➰ I will tell you again when you return temporary email ID </br>
 
+(4) 🥺💬 By accident, the HDD of my computer is broken, and the working schedule is busy and the computer is required for work. OS platform compatibility and device control signal development are protected by the platform access level because it is required by different platforms and working with FAT32 files is in different format file reading. T-driver can communication with both MACOS file system and FAT32 file system and the encryption application known of their workspace since initial running and during run time expandable ability but it does not include different platforms' device control and it will not override the behavior. 🥺💬  I think I return it correct format and I example because that is by someone intention and I informed of my action to IT expert the same way I informed Facebook about session ID case </br>
+
 🐐💬 I do not know the police, these actions are only a few examples of how they create sales but we are not proved of it and what are they doing to our friends too. Leave him to go back to work. </br> 
 
 <p align="center" width="100%">
