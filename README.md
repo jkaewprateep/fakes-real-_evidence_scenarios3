@@ -19,7 +19,6 @@
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/in_time_evidence.png"> </br>
     <b> 👌👧💬 🎈 Replay scenarios </b> </br>
-    <b> * Picture from the Internet </b>
 </p>
 
 🧸💬 A pizza and cookie are from the same company's owner, maybe he tried to respond to their questions when they continued communication with the speaker lounds, and he response about his performance only and he absolutely informed it. 🍕🍪🍪 </br>
@@ -39,5 +38,9 @@
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/authorized_by_distributed.png"> </br>
     <b> ✌️👧💬 🎈 Authorized by distributed </b> </br>
-    <b> * Picture from the Internet </b>
+</p>
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/image23.jpg"> </br>
+    <b> 👧💬 🎈 A strong intention and adventure never end </b> </br>
 </p>
