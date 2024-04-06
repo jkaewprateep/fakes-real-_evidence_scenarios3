@@ -22,7 +22,8 @@
     <b> * Picture from the Internet </b>
 </p>
 
-🧸💬 A pizza and cookie are from the same company's owner, may be he tried to response about their questions when they continued communication with the speaker lounds, and he response about his performance only and he absolutely informed it. 🍕🍪🍪 </br>
+🧸💬 A pizza and cookie are from the same company's owner, maybe he tried to respond to their questions when they continued communication with the speaker lounds, and he response about his performance only and he absolutely informed it. 🍕🍪🍪 </br>
+🐯💬 We remembered how the company invented they are working by drafts working hard as drafts and listening to you as drafts, never be tried and never be stopped. Clumpsy! </br>
 
 <p align="center" width="100%">
     <img width="11.2%" src="https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/image13.jpg"> 
