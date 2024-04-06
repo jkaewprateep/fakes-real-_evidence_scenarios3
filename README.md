@@ -46,6 +46,11 @@
     <b> ✌️👧💬 🎈 Authorized by distributed </b> </br>
 </p>
 
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/attention_networks.png"> </br>
+    <b> ✌️👧💬 🎈 Attention networks is Jaccard distance algorithms in advanced way you may consider when it find speaker emotion or phases </b> </br>
+</p>
 [ Simple Cylindrical word encryption for kids ](https://github.com/jkaewprateep/Simple_encode_decode/blob/main/README.md)
 
 <p align="center" width="100%">
