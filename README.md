@@ -4,6 +4,8 @@
 👤💬 I remember the case of UI practical in public number of steps to goal is the same but identify intention action designed by UX/UI design. For example, bright colours ```contrast light``` or slide bars control.  👧💬 🎈 In the case of ```Numpad```, ```an extensible``` and ```design label monitor``` we would like to have a ```sidebar``` too which is an ```instant counterpart``` when we need it. </br>
 🦭💬 Someone's initial requirements are that switching slide bar or ```transmission slidebar``` is a good idea or an extensible monitor but finally sidebar and ```customizable functions``` are the proper way by conclusion 👧💬 🎈 ```Extensible``` can perform of their ```function seamlessly``` when it is ```attached and transfers``` the menu, and ```extensions authorized menu``` and in any case, ```sidebar user control is working``` .  👧💬 🎈 📺💬 </br>
 
+🐑💬 ➰ In this scenario, users had multiple devices supported by multiple-platform running in the same authorized user in IT software solution, external may try to manipulate their actions by rush hours technique when they are busy all day with meetings and try to complete their work within the day and he accidentally approved a request from a different requester for only simple authorization action such as an open folder for email inbox or email account. </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/in_time_evidence.png"> </br>
     <b> 👌👧💬 🎈 Replay scenarios </b> </br>
