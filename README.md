@@ -47,6 +47,7 @@
 </p>
 
 💃( 👩‍🏫 )💬 Attention networks are one example of using neuron networks to ```solve variance problems that cause complex programming conditions``` but they can perform updates and processes by attention networks. ```The attention network works on update value and feedback update value calculation for attention scores of multiple stages input and current stage``` to find the level of current satisfaction level compared to overall and consideration level. This behavior helps the programmer to solve the problem when variables can have different proficiency scores assignments. </br>
+🦤💬 After the idea of attention networks distributed there are many applications that work on it including ```language and pattern mappings```, and sequential analysis for ```solving problems with preferable values or updating preferable values``` in word and sentence auto-correct features. Many of applications later support preferable scores for word phase prediction or attention scores for attention word analysis for ```speaker emotion```, ```prefer and stop word analysis``` . </br>
 
 
 <p align="center" width="100%">
